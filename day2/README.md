@@ -28,7 +28,7 @@ curl -X POST http://localhost:8080/api/events \
   -d '{"eventType":"purchase","userId":"5678"}'
 ```
 
-![img.png](img.png)
+![screenshots/kafkaRunning.png.png](screenshots/kafkaRunning.png)
 
 ## API Endpoints
 
@@ -57,7 +57,7 @@ spring:
 ```
 
 
-![img_1.png](img_1.png)
+![![kafkaUI.png](screenshots/kafkaUI.png)img_1.png](screenshots/kafkaUI.png)
 
 
 ### KAFKA THEORY ANSWERS
